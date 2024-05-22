@@ -2,7 +2,7 @@
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Weather%20App-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7678)
 
-<p align="center"><img src="assets/screenshot-1.png" /></p>
+<p align="center"><img src="extra/assets/screenshot-1.png" /></p>
 
 **Requirements**
 - Android studio last version
@@ -22,7 +22,7 @@
 
 **Screenshot**
 
-<p align="center"><img src="assets/screenshot-2.png" /></p>
+<p align="center"><img src="extra/assets/screenshot-2.png" /></p>
 
 **Libraries & Dependencies**
 - [Support libraries]: appcompat / recyclerview / constraintlayout

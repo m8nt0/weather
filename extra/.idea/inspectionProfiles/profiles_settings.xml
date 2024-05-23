@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <!-- Example inspection settings -->
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="UnusedDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="LOCAL_VARIABLE" value="true" />
+      <option name="FIELD" value="true" />
+      <option name="METHOD" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

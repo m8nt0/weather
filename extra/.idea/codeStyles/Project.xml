@@ -1,0 +1,7 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <!-- Example configuration for code style settings -->
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
+  </code_scheme>
+</component>

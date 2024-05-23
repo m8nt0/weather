@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All Tests" type="JUnit" factoryName="JUnit">
+    <module name="app" />
+    <option name="TEST_SEARCH_SCOPE">
+      <value defaultName="ALL" />
+    </option>
+  </configuration>
+</component>

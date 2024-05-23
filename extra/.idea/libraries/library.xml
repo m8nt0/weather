@@ -1,0 +1,11 @@
+<project version="4">
+  <component name="libraryTable">
+    <library name="ExampleLibrary">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/libs/example.jar" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>

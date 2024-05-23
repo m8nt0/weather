@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <module name="app" />
+    <option name="ACTIVITY_CLASS" value="com.github.bkhezry.weather.MainActivity" />
+    <option name="TARGET_PACKAGE" value="com.github.bkhezry.weather" />
+  </configuration>
+</component>

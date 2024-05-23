@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <module name="app" />
+    <option name="ACTIVITY_CLASS" value="com.github.bkhezry.weather.MainActivity" />
+    <option name="TARGET_PACKAGE" value="com.github.bkhezry.weather" />
+    <option name="DEBUG_MODE" value="true" />
+  </configuration>
+</component>
